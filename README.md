@@ -1,2 +1,2 @@
-# My Personal Website
+# My Awesome Personal Website
 This is my personal website project.
